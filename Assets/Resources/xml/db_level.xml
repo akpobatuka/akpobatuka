@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<!-- русский - DB level -->
+<root>
+    <items count = "4">
+    	<item id = "0" name="29"/>
+    	<item id = "1" name="26"/>
+    	<item id = "2" name="27"/>
+    	<item id = "3" name="28"/>
+    </items>
+
+	<levels count = "13">
+		<level id="0" name="0"/>
+		<level id="1" name="1">
+<!-- green жетон один на уровень, добавляется за прохождение уровня name="6" -->
+<!-- blue жетоны - задания на время name="3" -->
+			<blue count="3">
+				<task id="0" time="120"/>
+				<task id="1" time="90"/>
+				<task id="2" time="60"/>
+			</blue>
+
+<!-- yellow жетоны - специальные задания -->
+			<yellow count="1">
+				<task id="0" name="4"/>
+			</yellow>
+		</level>
+		<level id="2" name="2">
+			<blue count="3">
+				<task id="0" time="120"/>
+				<task id="1" time="90"/>
+				<task id="2" time="60"/>
+			</blue>
+			<yellow count="1">
+				<task id="0" name="5"/>
+			</yellow>
+		</level>
+
+		<level id="3" name="7" item_id="1">
+<!-- open_reason - мин. кол-во жетонов необходимое для открытия уровня (типы: 0-total, 1-green, 2-blue, 3-yellow, 4-item) -->
+			<open_reason type="1" count="3"/>
+			<blue count="3">
+				<task id="0" time="240"/>
+				<task id="1" time="180"/>
+				<task id="2" time="120"/>
+			</blue>
+			<yellow count="3">
+				<task id="0" name="13"/>
+				<task id="1" name="14"/>
+				<task id="2" name="25"/>
+			</yellow>
+		</level>
+
+		<level id="4" name="10">
+			<open_reason type="1" count="3"/>
+			<blue count="3">
+				<task id="0" time="180"/>
+				<task id="1" time="120"/>
+				<task id="2" time="90"/>
+			</blue>
+			<yellow count="1">
+				<task id="0" name="5"/>
+			</yellow>
+		</level>		
+
+		<level id="5" name="9">
+			<open_reason type="1" count="3"/>
+			<blue count="3">
+				<task id="0" time="180"/>
+				<task id="1" time="120"/>
+				<task id="2" time="90"/>
+			</blue>
+			<yellow count="1">
+				<task id="0" name="5"/>
+			</yellow>
+		</level>
+		
+		<level id="6" name="11">
+			<open_reason type="2" count="3"/>
+			<blue count="3">
+				<task id="0" time="300"/>
+				<task id="1" time="210"/>
+				<task id="2" time="150"/>
+			</blue>
+			<yellow count="1">
+				<task id="0" name="5"/>
+			</yellow>
+		</level>
+
+		<level id="7" name="12">
+			<open_reason type="3" count="3"/>
+			<blue count="3">
+				<task id="0" time="240"/>
+				<task id="1" time="180"/>
+				<task id="2" time="120"/>
+			</blue>
+			<yellow count="1">
+				<task id="0" name="5"/>
+			</yellow>
+		</level>
+
+		<level id="8" name="8">
+			<open_reason type="3" count="4"/>
+			<blue count="3">
+				<task id="0" time="300"/>
+				<task id="1" time="210"/>
+				<task id="2" time="150"/>
+			</blue>
+			<yellow count="1">
+				<task id="0" name="5"/>
+			</yellow>
+		</level>
+
+		<level id="9" name="24">
+			<open_reason type="2" count="1"/>
+			<blue count="3">
+				<task id="0" time="180"/>
+				<task id="1" time="120"/>
+				<task id="2" time="90"/>
+			</blue>
+		</level>
+
+		<level id="10" name="36" item_id="2">
+			<open_reason type="4" count="2"/>
+			<blue count="3">
+				<task id="0" time="180"/>
+				<task id="1" time="120"/>
+				<task id="2" time="90"/>
+			</blue>
+		</level>
+
+		<level id="11" name="39">
+			<open_reason type="1" count="1"/>
+		</level>
+
+		<level id="12" name="40">
+			<open_reason type="4" count="3"/>
+		</level>
+
+	</levels>
+</root>

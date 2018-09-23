@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- english - level_select -->
+<root>
+  <level_desc>
+		<leve00>Tutorial</leve00>
+		<leve01>Level 01</leve01>
+  </level_desc>
+</root>

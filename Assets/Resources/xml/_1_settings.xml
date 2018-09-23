@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!-- english - control_settings -->
+<root>
+  <gx>Graphics</gx>
+  <cx>Controls</cx>
+  <default>Default</default>
+  <help>
+    <text>Pull the control to move
+Pull the cross to zoom</text>
+  </help>
+  <alpha>Controls transparency</alpha>
+  <control>
+    <type>Control layout</type>
+    <standart>Standart</standart>
+    <advanced>Advanced</advanced>
+    <customize>Customize layout</customize>
+  </control>
+  <joystick>
+    <type>Joystick</type>
+    <static>Static</static>
+    <dynamic>Dynamic</dynamic>
+  </joystick>
+
+  <info>
+  	<release>Release grab</release>
+  	<relax>Relax</relax>
+  	<jump>Jump / group</jump>
+  	<arm>Direct / group arms</arm>
+  	<leg>Direct / group legs</leg>
+  	<move>Move / direct arms and legs</move>
+  	<use>Use item</use>
+  </info>
+  <gx>
+  	<FPS>Show FPS counter</FPS>
+  	<edge>Edge detection</edge>
+  </gx>
+</root>

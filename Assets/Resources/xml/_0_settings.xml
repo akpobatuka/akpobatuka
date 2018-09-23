@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<!-- русский - settings -->
+<root>
+  <gx>Графика</gx>
+  <cx>Управление</cx>
+  <default>По умолчанию</default>
+  <help>
+    <text>Потяните за элемент управления для перемещения
+Потяните за крестик для масштабирования</text>
+  </help>
+  <alpha>Прозрачность элементов управления</alpha>
+  <control>
+    <type>Раскладка управления</type>
+    <standart>Стандартная</standart>
+    <advanced>Продвинутая</advanced>
+    <customize>Настроить расположение</customize>
+  </control>
+  <joystick>
+    <type>Джойстик</type>
+    <static>Статический</static>
+    <dynamic>Динамический</dynamic>
+  </joystick>
+  <info>
+  	<release>Отпустить хватку</release>
+  	<relax>Расслабиться</relax>
+  	<jump>Прыжок / группировка</jump>
+  	<arm>Направлять / группировать руки</arm>
+  	<leg>Направлять / группировать ноги</leg>
+  	<move>Перемещение / направлять руки и ноги</move>
+  	<use>Использовать предмет</use>
+  </info>
+  <gx>
+  	<FPS>Показать счетчик FPS</FPS>
+  	<edge>Выделение грани</edge>
+  </gx>
+</root>

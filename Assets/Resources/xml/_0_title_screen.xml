@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- русский - title_screen -->
+<root>
+  <title>
+	<start>Начать игру</start>
+	<controls>Настройки</controls>
+	<language>Язык (Language)</language>
+	<help>Как играть (youtube)</help>
+	<exit>Выход</exit>
+  </title>
+</root>

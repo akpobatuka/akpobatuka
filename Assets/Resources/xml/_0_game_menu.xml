@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- русский - game_menu -->
+<root>
+  <menu>
+  	<pause>ПАУЗА</pause>
+	<continue>Продолжить</continue>
+	<restart>Начать заново</restart>
+	<exit>Выйти</exit>
+	<level_completed>Уровень пройден</level_completed>
+	<completed_continue>Продолжить</completed_continue>
+  </menu>
+</root>

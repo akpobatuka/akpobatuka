@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - level_point
+  - level_path
+  - camera_follow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - _Player
+  - _Ground
+  - _Collectibles
+  - _Trigger
+  - _GrabsBar
+  - _GrabsRopeLeft
+  - _GrabsRopeRight
+  - _PlayerArmsLeft
+  - _PlayerArmsRight
+  - _GuardGrabotArm
+  - 
+  - _GrabsBarBoth
+  - _GrabsObtacle
+  - _MoveableObtacle
+  - _GrabsObtacleTrigger
+  - _Grabot
+  - _GrabotArm
+  - _MagnetBelt
+  - _Magnet
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FarBackGround
+    uniqueID: 1618890699
+    locked: 0
+  - name: BackGround
+    uniqueID: 773230153
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 14853173
+    locked: 0

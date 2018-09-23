@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!-- english - tutorial -->
+<root>
+  <help>
+		<continue>Continue</continue>
+		<ungrab>Press button to release grab. Release the button to return an opportunity to grab again.</ungrab>
+		<direct_arm>Move left joystick to direct arms.</direct_arm>
+		<direct_leg>Move right joystick to direct legs.</direct_leg>
+		<group_arm>Tap the left joystick to group arms.</group_arm>
+		<group_leg>Tap the right joystick to group legs.</group_leg>
+		<roll>In a grouped state, press and hold the left or right of the screen to roll in the appropriate side.</roll>
+		<relax>Touch button to relax.</relax>
+		<jump>Touch button to group and ungroup</jump>
+		<how2roll>Group and roll to move on plain surface.</how2roll>
+		<how2jump>In a grouped condition: roll up so feet were at the bottom. Using the right stick, point the feet down to jump.</how2jump>
+		<how2fly>In air guiding hand to the left or right to move in the appropriate direction.</how2fly>
+		<how2grab>Grabbing: move the hands to the bar, the edge of the wall, a rope, etc.</how2grab>
+		<how2swing>Swing on the bar: group under the bar, and straight above it.</how2swing>
+
+		<roll2>In a grouped condition use joystick to roll.</roll2>
+		<how2roll2>Group and roll to move on plain surface.</how2roll2>
+		<how2jump2>In a grouped condition: roll up so feet were at the bottom. Use the "jump" button to straight and jump. Hold button to jump higher.</how2jump2>
+		<how2swing2>Swing on the bar: group under the bar, and straight above it. Also use joystick to direct legs.</how2swing2>
+		<direct_all>Move joystick to direct arms.</direct_all>
+  </help>
+</root>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<!-- русский - level_select -->
+<root>
+  <level_desc>
+		<leve00>Обучение</leve00>
+		<leve01>Уровень 01</leve01>
+  </level_desc>
+</root>

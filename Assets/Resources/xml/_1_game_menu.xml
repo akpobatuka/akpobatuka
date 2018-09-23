@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- english - game_menu -->
+<root>
+  <menu>
+  	<pause>PAUSE</pause>
+	<continue>Resume</continue>
+	<restart>Restart</restart>
+	<exit>Exit</exit>
+	<level_completed>Level completed</level_completed>
+	<completed_continue>Continue</completed_continue>
+  </menu>
+</root>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- english - level note -->
+<root>
+  <note id="0" name="Tutorial 1: controls"/>
+  <note id="1" name="Tutorial 2: movement"/>
+  <note id="2" name="Tutorial 3: horizontal bar"/>
+  <note id="3" name="Beat time %d"/>
+  <note id="4" name="Don't open doors"/>
+  <note id="5" name="Collect all coins"/>
+  <note id="6" name="Complete level"/>
+  <note id="7" name="Basketball"/>
+  <note id="8" name="Jam car"/>
+  <note id="9" name="Ventilation"/>
+  <note id="10" name="Trampoline zone"/>
+  <note id="11" name="Gym"/>
+  <note id="12" name="Hut on the river"/>
+  <note id="13" name="Score 10 points"/>
+  <note id="14" name="Score 10 points: max 4 throws"/>
+  <note id="15" name="Collect %d any color tokens to unlock new level"/>
+  <note id="16" name="Collect %d green tokens to unlock new level"/>
+  <note id="17" name="Collect %d blue tokens to unlock new level"/>
+  <note id="18" name="Collect %d yellow tokens to unlock new level"/>
+  <note id="19" name="Level tasks"/>
+  <note id="20" name="Map tasks"/>
+  <note id="21" name="comleted"/>
+  <note id="22" name="not comleted"/>
+  <note id="23" name="comleted earlier"/>
+  <note id="24" name="Bobsleigh"/> 
+  <note id="25" name="Defeat grabot"/>
+  <note id="26" name="Perception accelerator"/>
+  <note id="27" name="Hookshot"/>
+  <note id="28" name="Magnetic belt"/>
+  <note id="29" name="Empty hands"/>
+  <note id="30" name="Find hidden object"/>
+  <note id="31" name="At one level, the object is hidden. Find and he will help in the adventures."/>
+  <note id="32" name="Press the RED Action button to slow down time. Click again to return it as it was."/>
+  <note id="33" name="Gymnast"/>
+  <note id="34" name="Grabot"/>
+  <note id="35" name="Select player"/>
+  <note id="36" name="Laboratory"/>
+  <note id="37" name="Collect %d items to unlock new level"/>
+  <note id="38" name="Use the belt to be repelled by the negatively charged magnets, and attracted to the positively charged"/>
+  <note id="39" name="Playground"/>
+  <note id="40" name="Up the wall"/>
+  <note id="41" name="Continue"/>
+</root>

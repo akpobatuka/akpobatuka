@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<!-- русский - DB level -->
+<root>
+    <items count = "4">
+    	<item id = "0" name="29"/>
+    	<item id = "1" name="26"/>
+    	<item id = "2" name="27"/>
+    	<item id = "3" name="28"/>
+    </items>
+
+	<levels count = "1">
+		<level id="0" name="0"/>
+
+	</levels>
+</root>

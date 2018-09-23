@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scene/logo.unity
+    guid: d5990d578cce8234faae2d552eff9b01
+  - enabled: 1
+    path: Assets/_Scene/language_select.unity
+    guid: 9ce1f71416f5b894eac462127607d043
+  - enabled: 1
+    path: Assets/_Scene/title_screen.unity
+    guid: 13f9e611723932943a0109f2addea183
+  - enabled: 1
+    path: Assets/_Scene/settings.unity
+    guid: debfdc5065e6496449aa9e271e24963c
+  - enabled: 1
+    path: Assets/_Scene/settings_control.unity
+    guid: 4608828c2b1371c4f85eab77977cc8e2
+  - enabled: 1
+    path: Assets/_Scene/settings_graphics.unity
+    guid: 37bda55ca29ca1f4a9aaed82c3966d15
+  - enabled: 1
+    path: Assets/_Scene/control_customize_standart.unity
+    guid: 4312028a1ded58f4b98c284042a13f70
+  - enabled: 1
+    path: Assets/_Scene/control_customize_advanced.unity
+    guid: 25aa0fcb5ed0e4245ac13580fc0d32f9
+  - enabled: 1
+    path: Assets/_Scene/gymnast/select_level.unity
+    guid: 6b675dd7cc8a1cb4ba60df5410a5c542
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level00.unity
+    guid: 790dd6157adf47845a9d620c9933adf5
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level01.unity
+    guid: 87ade0d8d8162d243b1a99de0c4a58e2
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level02.unity
+    guid: 77d006743480b2e4a80f515fa70c5342
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level03.unity
+    guid: 282d47a791dc04f4585ce1114d06e626
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level04.unity
+    guid: aa44db889ef6f6242bbb9476f267ea0c
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level05.unity
+    guid: 2a63c08ec0fdfb342a9d196a333fd731
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level06.unity
+    guid: db98aadb39b1fd64a8f19745a014d0fd
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level07.unity
+    guid: d7397bd226f1fa141b055a96345a9f6f
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level08.unity
+    guid: adce1e5ee9b9b9e46b0f2dab27b894f5
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level09.unity
+    guid: 05ac44325bb284b48892f538cd5ec4e6
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level10.unity
+    guid: 7f9e5769b29acf343b2d92b8f512e4b8
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level11.unity
+    guid: defd7cf064611654197f0ffd772b16ad
+  - enabled: 1
+    path: Assets/_Scene/gymnast/level12.unity
+    guid: 3c6a803779e1bae4891ef90a33b11beb
+  m_configObjects: {}
