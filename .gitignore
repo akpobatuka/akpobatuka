@@ -1,0 +1,6 @@
+
+*.meta
+Library/
+Temp/
+obj/
+.vs/
