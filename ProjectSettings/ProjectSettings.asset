@@ -161,7 +161,7 @@ PlayerSettings:
     tvOS: com.AlekseySileenkov.Akpobatuka
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 44
+  AndroidBundleVersionCode: 45
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 27
   AndroidPreferredInstallLocation: 0
